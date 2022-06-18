@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mirranet.
+- 👋 Hi, I’m mirranet. 
 - 👀 I’m interested in different projects.
-- 🌱 I’m currently learning in 10 class.
 - 💞️ I’ll be happy to collaborate with you.
 - 📫 How to reach me vk @kgyrx
 
