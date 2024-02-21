@@ -1,7 +1,10 @@
-- 👋 Hi, I’m mirranet. 
-- 👀 I’m interested in different projects.
-- 💞️ I’ll be happy to collaborate with you.
-- 📫 How to reach me vk @kgyrx
+Hello, I'm junior Java, but i know other languages 
+Such as Python, C++ and I'm full stack developer
+I'm glad to collaborate with you, bro
+- How to reach me?
+ Telegram: @Loshara_oi
+ Vk: @kgyrx
+ Gmail: obovsensamp@gmail.com
 
 <!---
 mirranet/mirranet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
