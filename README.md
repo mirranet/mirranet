@@ -1,11 +1,9 @@
 PYTHON DEVELOPER
-java, c++, c#
+java, c++, c#, python
 I work with the database >:
 I'm glad to collaborate with you, bro
 - How to reach me?
  Telegram: @Loshara_oi
- Vk: @kgyrx
- Gmail: ilyasnezhin@gmail.com
 
 <!---
 mirranet/mirranet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
