@@ -1,5 +1,5 @@
 PYTHON DEVELOPER
-java, c++, c#, python
+java, c++, c#
 I work with the database >:
 I'm glad to collaborate with you, bro
 - How to reach me?
