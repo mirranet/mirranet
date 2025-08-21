@@ -36,13 +36,6 @@
 
 ---
 
-# 👋 Hi, I’m Zalyalova Valeria  
-
-💻 Student of **Information Security Systems**, developer and GameDev enthusiast.  
-I create useful apps, bots, and games with a focus on functionality and usability.  
-
----
-
 # 👋 Hi, my name is Valeria  
 
 💻 Developer and enthusiast in **GameDev** and applied programming.  
