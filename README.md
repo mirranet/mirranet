@@ -1,8 +1,5 @@
 # 👋 Привет, меня зовут Валерия  
 
-💻Разработчица и энтузиастка в GameDev и прикладном программировании.  
-Занимаюсь созданием полезных приложений, ботов и игр с акцентом на функциональность и удобство.  
-
 ---
 
 ## 🧑‍💻 О себе
@@ -21,25 +18,14 @@
 
 ---
 
-## 🚀 Мои проекты
-- ⚡ Downloader Tool — инструмент для скачивания видео  
-- 🤖 Telegram-боты: чат, платежи, премиум-доступ, мини-приложения  
-- 🎮 Игры на Unity и RenPy
-- 🔒 Учебные проекты по алгоритмам, графам и безопасности  
-
----
-
 ## 📬 Контакты
-- 📧 Email: **zalyalovavaleria@gmail.com**  
+- 📧 Email: **178aaaa11111@gmail.com**  
 - 💬 Discord: **snezhin_.**  
 - ✈️ Telegram: [@pidor](https://t.me/Loshara_oi)  
 
 ---
 
 # 👋 Hi, my name is Valeria  
-
-💻 Developer and enthusiast in **GameDev** and applied programming.  
-I create useful apps, bots, and games with a focus on functionality and usability.  
 
 ---
 
@@ -59,15 +45,7 @@ I create useful apps, bots, and games with a focus on functionality and usabilit
 
 ---
 
-## 🚀 My projects
-- ⚡ Downloader Tool — a video downloading tool  
-- 🤖 Telegram bots: chat, payments, premium access, mini-apps  
-- 🎮 Games in Unity and RenPy  
-- 🔒 Academic projects on algorithms, graphs, and security  
-
----
-
 ## 📬 Contacts
-- 📧 Email: **zalyalovavaleria@gmail.com**  
+- 📧 Email: **178aaaa11111@gmail.com**  
 - 💬 Discord: **snezhin_.**  
 - ✈️ Telegram: [@pidor](https://t.me/Loshara_oi)  
